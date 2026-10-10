@@ -1,0 +1,37 @@
+{
+    "ProductName": "Thermaltake240",
+    "DisplayName": "Thermaltake钢影时空240 41LED",
+    "Brand": "CompGen",
+    "Type": "custom",
+    "LedCount": 41,
+    "Width": 10,
+    "Height": 15,
+    "DeviceType": 12,
+    "DefaultDevNumber": 1,
+    "Author": "Github@LianhuaInk",
+    "LedMapping": 
+    [
+        0, 1, 2, 3, 4, 5, 6, 7, 8, 9,
+        10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+        20, 21, 22, 23, 24, 25, 26, 27, 28, 29,
+        30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+        40
+    ],
+    "LedCoordinates": 
+    [
+        [3,0],[4,0],[5,0],[6,0],[7,0],[8,0],[9,1],[9,2],[9,3],[9,4],
+        [9,5],[9,6],[9,7],[9,8],[9,9],[9,10],[9,11],[9,12],[8,14],[7,14],
+        [6,14],[5,14],[4,14],[3,14],[2,14],[1,14],[0,13],[0,12],[0,11],[0,10],
+        [0,9],[0,8],[0,7],[0,6],[0,5],[0,4],[0,3],[0,2],[0,1],[1,0],
+        [2,0]
+    ],
+    "LedNames": 
+    [
+        "Led1","Led2","Led3","Led4","Led5","Led6","Led7","Led8","Led9","Led10",
+        "Led11","Led12","Led13","Led14","Led15","Led16","Led17","Led18","Led19","Led20",
+        "Led21","Led22","Led23","Led24","Led25","Led26","Led27","Led28","Led29","Led30",
+        "Led31","Led32","Led33","Led34","Led35","Led36","Led37","Led38","Led39","Led40",
+        "Led41"
+    ],
+    "ImageUrl": "https://www.thermaltake.com.cn/media/catalog/product/cache/09f68238963a77a422fcff9775b21391/_/2/_240__1_1.jpg"
+}
